@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Komponenttikirjasto/Komponenttikirjasto.csproj" />
+  <Project Path="LunarLander.csproj" />
+</Solution>
